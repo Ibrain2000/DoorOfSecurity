@@ -20,4 +20,5 @@ El funcionamiento consiste en el usuario introduzca una clave a traves del state
 En caso de encontrarnos ya dentro, se implementó un botón pulsados para poder abrir la puerta desde adentro.
 
 ### Link del video del Proyecto
--LINK EN ESPERA 
+
+https://youtu.be/0KGXe-suAFo
